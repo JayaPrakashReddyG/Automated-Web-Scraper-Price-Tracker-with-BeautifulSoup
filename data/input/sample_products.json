@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Samsung Galaxy S24",
+    "product_url": "https://example.com/samsung-s24",
+    "target_price": 55000,
+    "website": "ExampleStore",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P002",
+    "product_name": "iPhone 16",
+    "product_url": "https://example.com/iphone-16",
+    "target_price": 65000,
+    "website": "ExampleStore",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P003",
+    "product_name": "HP Pavilion Laptop",
+    "product_url": "https://example.com/hp-pavilion",
+    "target_price": 60000,
+    "website": "ExampleStore",
+    "category": "Laptops"
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Boat Airdopes 141",
+    "product_url": "https://example.com/boat-airdopes",
+    "target_price": 999,
+    "website": "ExampleStore",
+    "category": "Accessories"
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Apple Watch SE",
+    "product_url": "https://example.com/apple-watch",
+    "target_price": 20000,
+    "website": "ExampleStore",
+    "category": "Smartwatches"
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Sony WH-1000XM5",
+    "product_url": "https://example.com/sony-headphones",
+    "target_price": 25000,
+    "website": "ExampleStore",
+    "category": "Audio"
+  },
+  {
+    "product_id": "P007",
+    "product_name": "OnePlus 13",
+    "product_url": "https://example.com/oneplus-13",
+    "target_price": 55000,
+    "website": "ExampleStore",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Lenovo IdeaPad Slim 5",
+    "product_url": "https://example.com/lenovo-laptop",
+    "target_price": 50000,
+    "website": "ExampleStore",
+    "category": "Laptops"
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Logitech MX Master 3S",
+    "product_url": "https://example.com/logitech-mouse",
+    "target_price": 7000,
+    "website": "ExampleStore",
+    "category": "Accessories"
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Redmi Pad Pro",
+    "product_url": "https://example.com/redmi-pad",
+    "target_price": 18000,
+    "website": "ExampleStore",
+    "category": "Tablets"
+  }
+]

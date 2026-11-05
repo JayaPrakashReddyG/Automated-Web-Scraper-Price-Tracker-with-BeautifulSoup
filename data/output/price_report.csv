@@ -1,0 +1,11 @@
+product_id,product_name,website,product_url,original_price,current_price,target_price,price_difference,discount_percentage,price_status,last_checked
+P001,Samsung Galaxy S24,ExampleStore,https://example.com/samsung-s24,74999,69999,55000,5000,6.67,Above Target,2026-11-05 19:00:00
+P002,iPhone 16,ExampleStore,https://example.com/iphone-16,79900,74900,65000,5000,6.26,Above Target,2026-11-05 19:00:00
+P003,HP Pavilion Laptop,ExampleStore,https://example.com/hp-pavilion,69999,59999,60000,-1,14.29,Target Reached,2026-11-05 19:00:00
+P004,Boat Airdopes 141,ExampleStore,https://example.com/boat-airdopes,1499,1199,999,200,20.01,Above Target,2026-11-05 19:00:00
+P005,Apple Watch SE,ExampleStore,https://example.com/apple-watch,29900,24999,20000,4999,16.39,Above Target,2026-11-05 19:00:00
+P006,Sony WH-1000XM5,ExampleStore,https://example.com/sony-headphones,29990,26990,25000,3000,10.00,Above Target,2026-11-05 19:00:00
+P007,OnePlus 13,ExampleStore,https://example.com/oneplus-13,69999,59999,55000,4999,14.29,Above Target,2026-11-05 19:00:00
+P008,Lenovo IdeaPad Slim 5,ExampleStore,https://example.com/lenovo-laptop,64999,54999,50000,4999,15.38,Above Target,2026-11-05 19:00:00
+P009,Logitech MX Master 3S,ExampleStore,https://example.com/logitech-mouse,9995,7995,7000,995,20.01,Above Target,2026-11-05 19:00:00
+P010,Redmi Pad Pro,ExampleStore,https://example.com/redmi-pad,24999,19999,18000,1999,20.00,Above Target,2026-11-05 19:00:00

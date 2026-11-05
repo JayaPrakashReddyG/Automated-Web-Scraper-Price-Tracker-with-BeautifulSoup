@@ -1,0 +1,11 @@
+product_id,product_name,product_url,target_price,website,category
+P001,Samsung Galaxy S24,https://example.com/samsung-s24,55000,ExampleStore,Electronics
+P002,iPhone 16,https://example.com/iphone-16,65000,ExampleStore,Electronics
+P003,HP Pavilion Laptop,https://example.com/hp-pavilion,60000,ExampleStore,Laptops
+P004,Boat Airdopes 141,https://example.com/boat-airdopes,999,ExampleStore,Accessories
+P005,Apple Watch SE,https://example.com/apple-watch,20000,ExampleStore,Smartwatches
+P006,Sony WH-1000XM5,https://example.com/sony-headphones,25000,ExampleStore,Audio
+P007,OnePlus 13,https://example.com/oneplus-13,55000,ExampleStore,Electronics
+P008,Lenovo IdeaPad Slim 5,https://example.com/lenovo-laptop,50000,ExampleStore,Laptops
+P009,Logitech MX Master 3S,https://example.com/logitech-mouse,7000,ExampleStore,Accessories
+P010,Redmi Pad Pro,https://example.com/redmi-pad,18000,ExampleStore,Tablets

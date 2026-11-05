@@ -1,0 +1,180 @@
+2026-11-05 19:53:50,071 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:53:50,092 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:53:50,101 | INFO | price_tracker | Product saved: P001
+2026-11-05 19:53:50,119 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:53:50,124 | INFO | price_tracker | Product saved: P001
+2026-11-05 19:53:50,132 | INFO | price_tracker | Price history saved for P001
+2026-11-05 19:53:50,321 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:53:50,326 | INFO | price_tracker | Product saved: P001
+2026-11-05 19:53:50,330 | INFO | price_tracker | Price history saved for P001
+2026-11-05 19:53:50,337 | INFO | price_tracker | Price history saved for P001
+2026-11-05 19:53:50,351 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:53:50,356 | INFO | price_tracker | Product saved: P001
+2026-11-05 19:53:50,362 | INFO | price_tracker | Product saved: P001
+2026-11-05 19:53:50,367 | INFO | price_tracker | CSV report exported: C:\Users\gjaya\AppData\Local\Temp\pytest-of-gjaya\pytest-0\test_export_to_csv0\price_report.csv
+2026-11-05 19:53:50,372 | INFO | price_tracker | JSON report exported: C:\Users\gjaya\AppData\Local\Temp\pytest-of-gjaya\pytest-0\test_export_to_json0\price_report.json
+2026-11-05 19:53:50,375 | WARNING | price_tracker | No records available for CSV export.
+2026-11-05 19:53:50,379 | INFO | price_tracker | CSV report exported: C:\Users\gjaya\AppData\Local\Temp\pytest-of-gjaya\pytest-0\test_export_all0\report.csv
+2026-11-05 19:53:50,380 | INFO | price_tracker | JSON report exported: C:\Users\gjaya\AppData\Local\Temp\pytest-of-gjaya\pytest-0\test_export_all0\report.json
+2026-11-05 19:53:50,412 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:53:50,414 | INFO | price_tracker | Tracking product: Samsung Galaxy S24
+2026-11-05 19:53:50,500 | INFO | price_tracker | Product saved: P001
+2026-11-05 19:53:50,505 | INFO | price_tracker | Price history saved for P001
+2026-11-05 19:53:50,505 | INFO | price_tracker | Price tracked successfully: Samsung Galaxy S24
+2026-11-05 19:53:50,516 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:53:50,516 | INFO | price_tracker | Tracking product: Samsung Galaxy S24
+2026-11-05 19:53:50,516 | ERROR | price_tracker | Failed to track Samsung Galaxy S24: Scraping failed
+2026-11-05 19:53:50,524 | INFO | price_tracker | Products sorted by current price.
+2026-11-05 19:53:50,528 | INFO | price_tracker | Product added: Samsung Galaxy S24
+2026-11-05 19:53:50,530 | INFO | price_tracker | Product added: Samsung Galaxy S24
+2026-11-05 19:53:50,538 | INFO | price_tracker | Product added: Samsung Galaxy S24
+2026-11-05 19:53:50,539 | INFO | price_tracker | Product added: Samsung Galaxy S24
+2026-11-05 19:53:50,540 | INFO | price_tracker | Product removed: P001
+2026-11-05 19:53:50,544 | INFO | price_tracker | Loaded 1 products from CSV.
+2026-11-05 19:53:50,548 | INFO | price_tracker | Product added: Samsung Galaxy S24
+2026-11-05 19:53:50,548 | INFO | price_tracker | Products saved to JSON.
+2026-11-05 19:53:50,553 | INFO | price_tracker | Successfully fetched: https://example.com
+2026-11-05 19:53:50,557 | WARNING | price_tracker | Attempt 1 failed: Connection failed
+2026-11-05 19:53:50,557 | WARNING | price_tracker | Attempt 2 failed: Connection failed
+2026-11-05 19:53:50,557 | WARNING | price_tracker | Attempt 3 failed: Connection failed
+2026-11-05 19:54:14,933 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:54:14,933 | INFO | database_initializer | Database initialized successfully!
+2026-11-05 19:54:28,542 | INFO | price_tracker | Loaded 10 products from JSON.
+2026-11-05 19:54:28,542 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:54:28,546 | INFO | price_tracker | Product saved: P001
+2026-11-05 19:54:28,550 | INFO | price_tracker | Product saved: P002
+2026-11-05 19:54:28,554 | INFO | price_tracker | Product saved: P003
+2026-11-05 19:54:28,559 | INFO | price_tracker | Product saved: P004
+2026-11-05 19:54:28,563 | INFO | price_tracker | Product saved: P005
+2026-11-05 19:54:28,568 | INFO | price_tracker | Product saved: P006
+2026-11-05 19:54:28,571 | INFO | price_tracker | Product saved: P007
+2026-11-05 19:54:28,575 | INFO | price_tracker | Product saved: P008
+2026-11-05 19:54:28,580 | INFO | price_tracker | Product saved: P009
+2026-11-05 19:54:28,583 | INFO | price_tracker | Product saved: P010
+2026-11-05 19:54:48,538 | INFO | price_tracker | Application started.
+2026-11-05 19:54:48,538 | INFO | price_tracker | Loaded 10 products from CSV.
+2026-11-05 19:54:48,539 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:54:48,539 | INFO | price_tracker | Tracking product: Samsung Galaxy S24
+2026-11-05 19:54:48,938 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:54:51,085 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:54:53,124 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:54:53,125 | ERROR | price_tracker | Failed to track Samsung Galaxy S24: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:54:53,125 | INFO | price_tracker | Tracking product: iPhone 16
+2026-11-05 19:54:53,160 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:54:55,198 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:54:57,240 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:54:57,241 | ERROR | price_tracker | Failed to track iPhone 16: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:54:57,241 | INFO | price_tracker | Tracking product: HP Pavilion Laptop
+2026-11-05 19:54:57,303 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:54:59,379 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:55:01,531 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:55:01,532 | ERROR | price_tracker | Failed to track HP Pavilion Laptop: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:55:01,533 | INFO | price_tracker | Tracking product: Boat Airdopes 141
+2026-11-05 19:55:01,634 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:55:03,785 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:55:05,830 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:55:05,830 | ERROR | price_tracker | Failed to track Boat Airdopes 141: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:55:05,831 | INFO | price_tracker | Tracking product: Apple Watch SE
+2026-11-05 19:55:05,934 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:55:08,084 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:55:10,122 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:55:10,123 | ERROR | price_tracker | Failed to track Apple Watch SE: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:55:10,123 | INFO | price_tracker | Tracking product: Sony WH-1000XM5
+2026-11-05 19:55:10,162 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:55:12,282 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:55:14,316 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:55:14,316 | ERROR | price_tracker | Failed to track Sony WH-1000XM5: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:55:14,317 | INFO | price_tracker | Tracking product: OnePlus 13
+2026-11-05 19:55:14,352 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:55:16,001 | WARNING | price_tracker | Application interrupted.
+2026-11-05 19:58:17,211 | INFO | price_tracker | Loaded 10 products from CSV.
+2026-11-05 19:58:17,216 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:58:17,224 | INFO | price_tracker | Tracking product: Samsung Galaxy S24
+2026-11-05 19:58:17,936 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:20,086 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:22,261 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:22,262 | ERROR | price_tracker | Failed to track Samsung Galaxy S24: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:22,262 | INFO | price_tracker | Tracking product: iPhone 16
+2026-11-05 19:58:22,342 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:24,490 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:26,638 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:26,639 | ERROR | price_tracker | Failed to track iPhone 16: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:26,640 | INFO | price_tracker | Tracking product: HP Pavilion Laptop
+2026-11-05 19:58:26,740 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:28,892 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:29,163 | INFO | price_tracker | Loaded 10 products from CSV.
+2026-11-05 19:58:29,168 | INFO | price_tracker | Database initialized successfully.
+2026-11-05 19:58:29,173 | INFO | price_tracker | Tracking product: Samsung Galaxy S24
+2026-11-05 19:58:29,818 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:31,046 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:31,048 | ERROR | price_tracker | Failed to track HP Pavilion Laptop: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:31,048 | INFO | price_tracker | Tracking product: Boat Airdopes 141
+2026-11-05 19:58:31,146 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:31,965 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:33,294 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:34,114 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:34,115 | ERROR | price_tracker | Failed to track Samsung Galaxy S24: 404 Client Error: Not Found for url: https://example.com/samsung-s24
+2026-11-05 19:58:34,116 | INFO | price_tracker | Tracking product: iPhone 16
+2026-11-05 19:58:34,183 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:35,446 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:35,447 | ERROR | price_tracker | Failed to track Boat Airdopes 141: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:35,448 | INFO | price_tracker | Tracking product: Apple Watch SE
+2026-11-05 19:58:35,550 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:36,265 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:37,697 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:38,415 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:38,415 | ERROR | price_tracker | Failed to track iPhone 16: 404 Client Error: Not Found for url: https://example.com/iphone-16
+2026-11-05 19:58:38,416 | INFO | price_tracker | Tracking product: HP Pavilion Laptop
+2026-11-05 19:58:38,517 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:39,849 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:39,850 | ERROR | price_tracker | Failed to track Apple Watch SE: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:39,850 | INFO | price_tracker | Tracking product: Sony WH-1000XM5
+2026-11-05 19:58:39,891 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:40,669 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:42,000 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:42,780 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:42,781 | ERROR | price_tracker | Failed to track HP Pavilion Laptop: 404 Client Error: Not Found for url: https://example.com/hp-pavilion
+2026-11-05 19:58:42,781 | INFO | price_tracker | Tracking product: Boat Airdopes 141
+2026-11-05 19:58:42,837 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:44,148 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:44,149 | ERROR | price_tracker | Failed to track Sony WH-1000XM5: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:44,150 | INFO | price_tracker | Tracking product: OnePlus 13
+2026-11-05 19:58:44,253 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:44,881 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:46,402 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:47,017 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:47,018 | ERROR | price_tracker | Failed to track Boat Airdopes 141: 404 Client Error: Not Found for url: https://example.com/boat-airdopes
+2026-11-05 19:58:47,019 | INFO | price_tracker | Tracking product: Apple Watch SE
+2026-11-05 19:58:47,120 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:48,554 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:48,555 | ERROR | price_tracker | Failed to track OnePlus 13: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:48,555 | INFO | price_tracker | Tracking product: Lenovo IdeaPad Slim 5
+2026-11-05 19:58:48,615 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/lenovo-laptop
+2026-11-05 19:58:49,156 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:50,653 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/lenovo-laptop
+2026-11-05 19:58:51,210 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:51,211 | ERROR | price_tracker | Failed to track Apple Watch SE: 404 Client Error: Not Found for url: https://example.com/apple-watch
+2026-11-05 19:58:51,211 | INFO | price_tracker | Tracking product: Sony WH-1000XM5
+2026-11-05 19:58:51,317 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:52,711 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/lenovo-laptop
+2026-11-05 19:58:52,712 | ERROR | price_tracker | Failed to track Lenovo IdeaPad Slim 5: 404 Client Error: Not Found for url: https://example.com/lenovo-laptop
+2026-11-05 19:58:52,713 | INFO | price_tracker | Tracking product: Logitech MX Master 3S
+2026-11-05 19:58:52,854 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/logitech-mouse
+2026-11-05 19:58:53,468 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:55,003 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/logitech-mouse
+2026-11-05 19:58:55,617 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:55,618 | ERROR | price_tracker | Failed to track Sony WH-1000XM5: 404 Client Error: Not Found for url: https://example.com/sony-headphones
+2026-11-05 19:58:55,618 | INFO | price_tracker | Tracking product: OnePlus 13
+2026-11-05 19:58:55,722 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:57,212 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/logitech-mouse
+2026-11-05 19:58:57,214 | ERROR | price_tracker | Failed to track Logitech MX Master 3S: 404 Client Error: Not Found for url: https://example.com/logitech-mouse
+2026-11-05 19:58:57,214 | INFO | price_tracker | Tracking product: Redmi Pad Pro
+2026-11-05 19:58:57,270 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/redmi-pad
+2026-11-05 19:58:57,772 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:59,310 | WARNING | price_tracker | Attempt 2 failed: 404 Client Error: Not Found for url: https://example.com/redmi-pad
+2026-11-05 19:58:59,822 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:59,822 | ERROR | price_tracker | Failed to track OnePlus 13: 404 Client Error: Not Found for url: https://example.com/oneplus-13
+2026-11-05 19:58:59,822 | INFO | price_tracker | Tracking product: Lenovo IdeaPad Slim 5
+2026-11-05 19:58:59,854 | WARNING | price_tracker | Attempt 1 failed: 404 Client Error: Not Found for url: https://example.com/lenovo-laptop
+2026-11-05 19:59:01,453 | WARNING | price_tracker | Attempt 3 failed: 404 Client Error: Not Found for url: https://example.com/redmi-pad
+2026-11-05 19:59:01,453 | ERROR | price_tracker | Failed to track Redmi Pad Pro: 404 Client Error: Not Found for url: https://example.com/redmi-pad

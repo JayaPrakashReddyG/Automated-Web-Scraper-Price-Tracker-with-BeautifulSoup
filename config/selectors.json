@@ -1,0 +1,66 @@
+{
+    "default": {
+        "product_name": [
+            "[itemprop='name']",
+            ".product-title",
+            ".product-name",
+            "h1"
+        ],
+        "current_price": [
+            "[itemprop='price']",
+            ".price",
+            ".product-price",
+            ".selling-price"
+        ],
+        "original_price": [
+            ".original-price",
+            ".old-price",
+            ".mrp",
+            ".list-price"
+        ],
+        "discount": [
+            ".discount",
+            ".discount-percentage",
+            ".savings"
+        ]
+    },
+    "example.com": {
+        "product_name": [
+            "h1"
+        ],
+        "current_price": [
+            ".price",
+            "[itemprop='price']"
+        ],
+        "original_price": [
+            ".original-price",
+            ".old-price"
+        ]
+    },
+    "amazon.in": {
+        "product_name": [
+            "#productTitle"
+        ],
+        "current_price": [
+            ".a-price .a-offscreen",
+            "#priceblock_ourprice",
+            "#priceblock_dealprice"
+        ],
+        "original_price": [
+            ".a-text-price .a-offscreen"
+        ]
+    },
+    "flipkart.com": {
+        "product_name": [
+            ".VU-ZEz"
+        ],
+        "current_price": [
+            ".Nx9bqj",
+            "._30jeq3"
+        ],
+        "original_price": [
+            "._3I9_wc",
+            ".yRaY8j"
+        ]
+    }
+}
